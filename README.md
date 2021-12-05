@@ -9,3 +9,7 @@ Used W&B for visualizing the [experiments](https://wandb.ai/sjsu-cmpe-258-musket
 The inference app has been hosted on Streamlit - [Application](https://share.streamlit.io/raghavadevarajeurs/low-light-image-enhancement/main/inference.py)
 ## Presentation Video
 The Video of our presentation can be found [here](https://www.youtube.com/watch?v=yF4iJx9Ap2E)
+## Presentation Deck
+The presenation deck can be found [here](https://github.com/vrmusketeers/Low-Light-Image-Enhancement/blob/main/Low-Light%20Image%20Enhancement%20-%20Final%20Presnetation.pdf)
+## Project Report
+The porject reprot can be found [here]()
